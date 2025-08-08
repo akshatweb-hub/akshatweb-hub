@@ -243,7 +243,7 @@ const Home = () => {
                                     <div className="dz-media">
                                         <a href="https://thenewscrypto.com/?gad_source=1&gclid=EAIaIQobChMIws7PrImEjAMVMk7_AR1EvjZ-EAAYASAAEgK7CvD_BwE"><img src="images/blog/pic1.jpg" alt /></a>
                                         <ul className="dz-badge-list">
-                                            <li><a href="javascript:void(0);" className="dz-badge">14 Fan 2024</a></li>
+                                            <li><a href="javascript:void(0);" className="dz-badge">14 Fab 2024</a></li>
                                         </ul>
                                        
                                     </div>
@@ -256,7 +256,7 @@ const Home = () => {
                                                         <span>By Gita</span>
                                                     </a>
                                                 </li>
-                                                <li className="post-date"><a href="javascript:void(0);"> 12 May 2024</a></li>
+                                                <li className="post-date"><a href="javascript:void(0);"> 12 May 2025</a></li>
                                             </ul>
                                         </div>
                                         <h4 className="dz-title"><a href="https://thenewscrypto.com/?gad_source=1&gclid=EAIaIQobChMIws7PrImEjAMVMk7_AR1EvjZ-EAAYASAAEgK7CvD_BwE"> Coins Which Avoid In Cryptocurrency.</a></h4>
@@ -267,7 +267,7 @@ const Home = () => {
                                     <div className="dz-media">
                                         <a href="https://thenewscrypto.com/?gad_source=1&gclid=EAIaIQobChMIws7PrImEjAMVMk7_AR1EvjZ-EAAYASAAEgK7CvD_BwE"><img src="images/blog/pic2.jpg" alt /></a>
                                         <ul className="dz-badge-list">
-                                            <li><a href="javascript:void(0);" className="dz-badge">14 Fan 2024</a></li>
+                                            <li><a href="javascript:void(0);" className="dz-badge">14 Fab 2025</a></li>
                                         </ul>
                                        
                                     </div>
@@ -280,7 +280,7 @@ const Home = () => {
                                                         <span>By Shivani</span>
                                                     </a>
                                                 </li>
-                                                <li className="post-date"><a href="javascript:void(0);"> 12 May 2024</a></li>
+                                                <li className="post-date"><a href="javascript:void(0);"> 14 Fab 2025</a></li>
                                             </ul>
                                         </div>
                                         <h4 className="dz-title"><a href="https://thenewscrypto.com/?gad_source=1&gclid=EAIaIQobChMIws7PrImEjAMVMk7_AR1EvjZ-EAAYASAAEgK7CvD_BwE">Things That Make You Love Cryptocurrency.</a></h4>
@@ -292,7 +292,7 @@ const Home = () => {
                                 <div className="dz-card style-2" style={{ backgroundImage: 'url(images/blog/blog-ig.png)' }}>
                                     <div className="dz-category">
                                         <ul className="dz-badge-list">
-                                            <li><a href="javascript:void(0);" className="dz-badge">14 Fan 2024</a></li>
+                                            <li><a href="javascript:void(0);" className="dz-badge">12 Jun 2025</a></li>
                                         </ul>
                                     </div>
                                     <div className="dz-info">
@@ -305,7 +305,7 @@ const Home = () => {
                                                         <span>By Madhuri</span>
                                                     </a>
                                                 </li>
-                                                <li className="post-date"><a href="javascript:void(0);"> 12 May 2024</a></li>
+                                                <li className="post-date"><a href="javascript:void(0);"> 12 May 2025</a></li>
                                             </ul>
                                         </div>
                                     </div>

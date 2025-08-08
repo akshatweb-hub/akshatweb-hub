@@ -1,10 +1,4 @@
-/**
-	Template Name 	 : CryptoZone
-	Author			 : DexignZone
-	File Name	     : custom.js
-	Core script to handle the entire theme and core functions
-	
-**/
+
 
 var CryptoZone = function(){
 	/* Search Bar ============ */
