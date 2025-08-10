@@ -1,6 +1,6 @@
 import React from 'react';
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
 
 // Pages
 import Home from './Landing/View/Home';
@@ -14,7 +14,6 @@ import Dashboardb from './Admin/Dashboardb';
 // Layout
 import Header from './Landing/Component/Header';
 import Footer from './Landing/Component/Footer';
-import { Outlet } from 'react-router-dom';
 
 const Layout = () => {
   return (
@@ -30,8 +29,6 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-
-        {/* Common Layout for Landing Pages */}
         <Route element={<Layout />}>
           <Route path="/" element={<Home />} />
           <Route path="/Aboutus" element={<Aboutus />} />
@@ -41,9 +38,8 @@ const App = () => {
           <Route path="/ContactForm" element={<ContactForm />} />
         </Route>
 
-        {/* Separate route (no Header/Footer) */}
+        {/* Separate Dashboard route without layout */}
         <Route path="/Dashboardb" element={<Dashboardb />} />
-
       </Routes>
     </BrowserRouter>
   );
